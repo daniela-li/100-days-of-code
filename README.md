@@ -2,10 +2,15 @@
 
 ## **Intro**
 I am starting to learn code for Data Analysis.
+
 Because I have accounting background, I didn't know anything about coding. 
+
 Since I decided to change my career from accounting to data analysis in mid July, I researched what programming language I needed to know and 3 show up: Python, R and SQL. 
+
 Since mid July until now in 14.08, I was learning somethings from these 3 languages in many differents sources: Data Quest, Data Camp, Khan Academy, Free Code Camp, Solo Learn, etc... 
+
 But I wasn't consistent, I didn't code everyday. 
+
 Because of this, I decided to join #100daysofcode challenge
 
 So let's begin!
