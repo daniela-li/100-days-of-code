@@ -1,5 +1,6 @@
 # 100-days-of-code
-##**Intro**
+
+## **Intro**
 I am starting to learn code for Data Analysis.
 
 Because I have accounting background, I didn't know anything about coding. 
@@ -17,7 +18,7 @@ So let's begin!
 PS: English is not my first language, sorry for the mistakes! 
 
 
-###**Day 1 - 14.08.2020**
+### **Day 1 - 14.08.2020**
 To keep track of the progress, I learned how to use Github and started this new repository. 
 
 I am still learning how to used, ~~so I still don't know how to format text for example.~~ Nevermind, I searched on Google and formatted :laughing:
