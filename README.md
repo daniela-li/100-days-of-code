@@ -28,3 +28,7 @@ So far so good. :smile:
 
 I decided to focus on Python and to use this video course from [Free Code Camp - Introduction to Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/)
 This course is based on a book of the same name and the author is the instructor of the videos.    
+
+### **Day 2 - 15.08.2020
+I watched some more videos and did the chapter 3 exercises. 
+I created a file and uploaded in this repository.
