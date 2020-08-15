@@ -11,7 +11,7 @@ Since mid July until now in 14.08, I was learning somethings from these 3 langua
 
 But I wasn't consistent, I didn't code everyday. 
 
-Because of this, I decided to join #100daysofcode challenge
+Because of this, I decided to join #100daysofcode challenge.
 
 So let's begin!
 
@@ -20,6 +20,11 @@ PS: English is not my first language, sorry for the mistakes!
 ### **Day 1 - 14.08.2020**
 To keep track of the progress, I learned how to use Github and started this new repository. 
 I am still learning how to used, ~~so I still don't know how to format text for example.~~ Nevermind, I searched on Google and formatted :laughing:
+
+I installed on my notebook, Visual Studio Code and Github.
+I learned how to download this repository in Github, edit the "README" doc in Visual Studio, commit and push the changes. 
+
+So far so good. :smile:
 
 I decided to focus on Python and to use this video course from [Free Code Camp - Introduction to Python for Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/)
 This course is based from a book of the same name and the autor is the instructor of the videos.    
